@@ -1,5 +1,6 @@
 <h1 align="center">Hellow World!! My name is Marco Sanchez</h1>
-<h3 align="center">Data and Processes Analyst who can handle different financial processes related to business, administration and accounting, data analysis and automation of processes using Excel VBA, Power BI, Alteryx Designer, Python, SQL, Git /GitHub and other business intelligence tools, problem-solving skills, knowledge on programming languages, work under pressure and great management interpersonal relationship..</h3>
+<h3 align="center">Accountant with 10 years of experience handling and improving financial processes related to business, administration, and accounting. Experience using Excel VBA, Alteryx Designer, SQL, Power Automate, SharePoint and other business intelligence tools. Strong problem-solving skills and expertise in programming languages.
+</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
